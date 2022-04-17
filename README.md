@@ -10,24 +10,7 @@ I'm a Fullstack Developer 👩‍💻 with expertise mainly on the client side o
 
 ### 👥 Contact me
 
-- [✉️ E-mail → ayomidedans@gmail.com](mailto:ayomidedans@gmail.com) <?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
- preserveAspectRatio="xMidYMid meet">
-
-<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M435 4473 c-203 -25 -360 -160 -416 -358 -12 -42 -14 -291 -14 -1555
-0 -1264 2 -1513 14 -1555 47 -168 165 -290 330 -341 25 -8 101 -17 169 -21
-l122 -6 0 1496 c0 824 2 1497 5 1497 2 0 434 -331 960 -735 l955 -735 955 735
-c526 404 958 735 960 735 3 0 5 -673 5 -1497 l0 -1496 123 6 c67 4 143 13 168
-21 165 51 283 173 330 341 21 75 21 3035 0 3110 -47 168 -165 290 -330 341
--25 8 -100 17 -166 20 l-120 6 -963 -761 -962 -761 -962 760 -963 760 -85 -1
-c-47 -1 -98 -4 -115 -6z"/>
-</g>
-</svg>
+- [✉️ E-mail → ayomidedans@gmail.com](mailto:ayomidedans@gmail.com) 
 - [🌐 Portfolio → the-aydev.netlify.app](https://the-aydev.netlify.app/)<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
