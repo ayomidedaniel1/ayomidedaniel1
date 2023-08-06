@@ -5,8 +5,8 @@ I'm a Fullstack Developer 👩‍💻 with expertise on the client side of the w
 ### 🚀 My skills
 
 - **Languages →** JavaScript, Python.
-- **Libraries & Frameworks →** React.js, Django
-- **Tools & Platforms →** Git, Figma
+- **Libraries & Frameworks →** React.js, Django, React native
+- **Tools & Platforms →** Figma, AdobeXD
 
 <br/>
 
