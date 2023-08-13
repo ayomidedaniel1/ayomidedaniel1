@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Ayomide.
 
-I'm a Fullstack Developer 👩‍💻 with expertise on the client side of the web.
+I'm a Software engineer 👩‍💻 with expertise on the client side of the web.
 
 ### 🚀 My skills
 
