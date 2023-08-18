@@ -12,4 +12,4 @@ I'm a Software engineer 👩‍💻 with expertise on the client side of the web
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=the-aydev&theme=dark)](https://git.io/streak-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=the-aydev&layout=compact&theme=dark
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=the-aydev&layout=compact&theme=dark)
