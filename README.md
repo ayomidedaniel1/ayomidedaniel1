@@ -12,4 +12,4 @@ I'm a Software engineer 👩‍💻 with expertise on the client side of the web
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-aydev&theme=github_dark" alt="the-aydev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-aydev&theme=github_dark&show_icons=true&count-private=true" alt="the-aydev" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-aydev&theme=github_dark&show_icons=true&count-private=true" alt="the-aydev" /></p>
