@@ -10,6 +10,6 @@ I'm a Software engineer 👩‍💻 with expertise on the client side of the web
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-aydev&theme=github_dark" alt="the-aydev" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=the-aydev&theme=dark)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-aydev&theme=github_dark&show_icons=true&count-private=true" alt="the-aydev" /></p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=the-aydev&layout=compact&theme=dark
