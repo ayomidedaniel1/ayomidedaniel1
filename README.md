@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Ayomide.
+### Hi 👋. I'm Ayomide.
 
 I'm a self taught software engineer 👩‍💻 who specializes in creating quality user interfaces
 
