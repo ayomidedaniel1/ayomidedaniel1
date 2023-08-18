@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Ayomide.
 
-I'm a Software engineer 👩‍💻 with expertise on the client side of the web.
+I'm a self taught software engineer 👩‍💻 who specializes in creating quality user interfaces
 
 ### 🚀 My skills
 
