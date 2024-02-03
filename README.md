@@ -5,11 +5,11 @@ I'm a self taught software engineer 👩‍💻 who specializes in creating qual
 ### 🚀 My skills
 
 - **Languages →** JavaScript, TypeScript, Python.
-- **Libraries & Frameworks →** React.js, Gatsby, Django, React native
+- **Libraries & Frameworks →** React native, React.js, Next.js, Gatsby.js, Node.js, Django, 
 - **Tools & Platforms →** Figma, AdobeXD, Firebase
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=the-aydev&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=the-aydev&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=the-aydev&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=the-aydev&layout=compact&theme=dark)
