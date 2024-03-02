@@ -12,4 +12,4 @@ I'm a self taught software engineer 👩‍💻 who specializes in creating qual
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayomidedaniel1&theme=holi-theme&border_radius=5)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomidedaniel1&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomidedaniel1&layout=compact&theme=vision-friendly-dark)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomidedaniel1&layout=compact&theme=dark)]
