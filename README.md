@@ -10,6 +10,6 @@ I'm a self taught software engineer 👩‍💻 who specializes in creating qual
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=the-aydev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayomidedaniel1&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=the-aydev&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomidedaniel1&layout=compact&theme=dark)
