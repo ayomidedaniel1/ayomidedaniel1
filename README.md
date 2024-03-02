@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayomide</h1>
-<h3 align="center">A self taught software engineer 👩‍💻 who specializes in creating quality user interfaces</h3>
+<h3 align="center">A software engineer 👩‍💻 who specializes in creating quality user interfaces</h3>
 
 - 👨‍💻 All of my projects are available at [https://neondev.vercel.app/](https://neondev.vercel.app/)
 
@@ -10,6 +10,7 @@
 <a href="https://twitter.com/IIayomide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayomidedaniel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayo" height="30" width="40" /></a>
 </p>
+
 
 ### 🚀 My skills
 
