@@ -15,7 +15,7 @@
 ### 🚀 My skills 
 
 - **Languages →** JavaScript, TypeScript, Python.
-- **Libraries & Frameworks →** React native, React.js, Next.js, Gatsby.js, Node.js, Django, 
+- **Libraries & Frameworks →** React native, React.js, Next.js, Gatsby.js, Node.js, Mongodb Django, 
 - **Tools & Platforms →** Figma, AdobeXD, Firebase
 
 
