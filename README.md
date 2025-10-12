@@ -1,6 +1,6 @@
 # Software Developer
 
-Hi, I'm Ayomide a **software engineer**. 
+Hi, I'm Ayomide a **full-stack developer**. 
 I design and develop web and mobile apps that look great and create real impact for users and teams.
 
 ## **Connect with me**
