@@ -3,7 +3,6 @@
 Hi, I'm Ayomide a **software engineer**. 
 I design and develop web and mobile apps that look great and create real impact for users and teams.
 
-<h3 align="left">Connect with me:</h3>
 ## **Connect with me**
 - 📧 [Email me](mailto:ayomidedans@gmail.com)
 - 👨‍💻 [Portfolio](https://neondev.vercel.app/)
