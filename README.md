@@ -1,23 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ayomide</h1>
-<h3 align="center">A software engineer 👩‍💻 who specializes in creating quality user interfaces</h3>
+# Software Developer
 
-- 👨‍💻 All of my projects are available at [https://neondev.vercel.app/](https://neondev.vercel.app/)
-
-- 📫 How to reach me **ayomidedans@gmail.com**
+Hi, I'm Ayomide a **software engineer**. 
+I design and develop web and mobile apps that look great and create real impact for users and teams.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/IIayomide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayomidedaniel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayo" height="30" width="40" /></a>
-</p>
+## **Connect with me**
+- 📧 [Email me](mailto:ayomidedans@gmail.com)
+- 👨‍💻 [Portfolio](https://neondev.vercel.app/)
+- 💬 [Contact me](https://linktr.ee/AyomideDaniel)
 
+---
 
-### 🚀 My skills 
+## **Tech Stack & Expertise**  
+- 💻 **Languages**: JavaScript, TypeScript, Java, Python
+- ⚙️ **Frameworks**: React.js, Next.js, Gatsby.js, Tailwind CSS, Node.js, Express
+- 📱 **Mobile Apps**: Cross-platform mobile apps (React Native)
+- 🗃️ **Databases**: MongoDB, PostgreSQL
+- 🛠️ **Tools**: Vercel, Git/GitHub, CI/CD, Redux, Postman
+- ☁️ **Infra**: Cloud hosting, API integrations, serverless functions
 
-- **Languages →** JavaScript, TypeScript, Python.
-- **Libraries & Frameworks →** React native, React.js, Next.js, Gatsby.js, Node.js, Mongodb Django, 
-- **Tools & Platforms →** Figma, AdobeXD, Firebase
+---
 
+## **Open for Collaboration** 🤝  
+Whether you need a **mobile app**, a **web application**, or a **technical partner** for your idea, let’s build it together.  
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayomidedaniel1&theme=holi-theme&border_radius=5)](https://git.io/streak-stats)
