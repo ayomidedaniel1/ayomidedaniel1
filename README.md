@@ -1,7 +1,5 @@
-# Software Developer
-
-Hi, I'm Ayomide a **full-stack developer**. 
-I design and develop web and mobile apps that look great and create real impact for users and teams.
+Hi, I'm Ayomide a **frontend engineer**. 
+I build scalable mobile and web apps that look great and create real impact for users and teams.
 
 ## **Connect with me**
 - 📧 [Email me](mailto:ayomidedans@gmail.com)
