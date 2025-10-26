@@ -21,7 +21,7 @@ I build scalable mobile and web apps that look great and create real impact for 
 ---
 
 ## **Open for Collaboration** 🤝  
-Whether you need a **mobile app**, a **web application**, or a **technical partner** for your idea, let’s build it together.  
+Whether you need a **mobile app**, a **web application**, or a **technical partner** that can collaborate with ease, let’s build it together.  
 
 ---
 
