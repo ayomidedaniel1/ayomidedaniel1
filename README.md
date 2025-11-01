@@ -1,6 +1,6 @@
 # Software Engineer
 
-Hi, I'm Ayomide a **frontend engineer**. 
+Hi, I'm Ayomide a **software engineer**. 
 I build scalable mobile and web apps that look great and create real impact for users and teams.
 
 ## **Connect with me**
