@@ -17,8 +17,3 @@ I build scalable mobile and web apps that look great and create real impact for 
 - 🗃️ **Databases**: MongoDB, PostgreSQL
 - 🛠️ **Tools**: Vercel, Git/GitHub, CI/CD, Redux, Postman
 - ☁️ **Infra**: Cloud hosting, API integrations, serverless functions
-
----
-
-## **Open for Collaboration** 🤝  
-Whether you need a **mobile app**, a **web application**, or a **technical partner** that can collaborate with ease, let’s build it together.  
