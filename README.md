@@ -14,5 +14,5 @@ Specialized in shipping scalable products with React Native and Next.js, focusin
 - 💻 **Languages**: JavaScript, TypeScript, Java, Python
 - 📱 **Mobile**: React Native, Cross-platform development
 - ⚙️ **Web**: React.js, Next.js, Gatsby.js, Tailwind CSS, Node.js
-- 🗃️ **Backend & Data**: Supabase, MongoDB, PostgreSQL, Prisma
+- 🗃️ **Backend & Data**: Express.js, Supabase, MongoDB, PostgreSQL, Prisma
 - ☁️ **Infra & Tools**: AWS, Firebase, Vercel, CI/CD, Git
