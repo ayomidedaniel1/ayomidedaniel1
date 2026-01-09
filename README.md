@@ -1,7 +1,7 @@
 # Software Engineer
 
-Hi, I'm Ayomide a **software engineer**. 
-I build scalable mobile and web apps that look great and create real impact for users and teams.
+I engineer high-performance mobile and web applications. 
+Specialized in shipping scalable products with React Native and Next.js, focusing on clean architecture and user experience.
 
 ## **Connect with me**
 - 📧 [Email me](mailto:ayomidedans@gmail.com)
@@ -12,8 +12,7 @@ I build scalable mobile and web apps that look great and create real impact for 
 
 ## **Tech Stack & Expertise**  
 - 💻 **Languages**: JavaScript, TypeScript, Java, Python
-- ⚙️ **Frameworks**: React.js, Next.js, Gatsby.js, Tailwind CSS, Node.js, Express
-- 📱 **Mobile Apps**: Cross-platform mobile apps (React Native)
-- 🗃️ **Databases**: MongoDB, PostgreSQL
-- 🛠️ **Tools**: Vercel, Git/GitHub, CI/CD, Redux, Postman
-- ☁️ **Infra**: Cloud hosting, API integrations, serverless functions
+- 📱 **Mobile**: React Native, Cross-platform development
+- ⚙️ **Web**: React.js, Next.js, Gatsby.js, Tailwind CSS, Node.js
+- 🗃️ **Backend & Data**: Supabase, MongoDB, PostgreSQL, Prisma
+- ☁️ **Infra & Tools**: AWS, Firebase, Vercel, CI/CD, Git
