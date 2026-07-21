@@ -5,7 +5,6 @@ Specialized in shipping scalable products with React Native and Next.js, focusin
 
 ## **Connect with me**
 - 📧 [Email me](mailto:ayomidedans@gmail.com)
-- 👨‍💻 [Portfolio](https://neondev.vercel.app/)
 - 💬 [Contact me](https://linktr.ee/AyomideDaniel)
 
 ---
