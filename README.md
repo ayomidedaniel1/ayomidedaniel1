@@ -6,6 +6,9 @@ Specialized in shipping scalable products with React Native and Next.js, focusin
 ## **Connect with me**
 - 📧 [Email me](mailto:ayomidedans@gmail.com)
 - 💬 [Contact me](https://linktr.ee/AyomideDaniel)
+-  [X](https://x.com/DevAyomide)
+-  [Blog](https://dev.to/ayomidedaniel)
+-  [LinkedIn](https://www.linkedin.com/in/ayomidedaniel)
 
 ---
 
