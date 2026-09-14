@@ -4,7 +4,7 @@ I engineer high-performance mobile and web applications.
 Specialized in shipping scalable products with React Native and Next.js, focusing on clean architecture and user experience.
 
 ## **Connect with me**
-- 📧 [Email me](mailto:ayomidedans@gmail.com)
+-  [Email me](mailto:ayomidedans@gmail.com)
 - 💬 [Contact me](https://linktr.ee/AyomideDaniel)
 -  [X](https://x.com/DevAyomide)
 -  [Blog](https://dev.to/ayomidedaniel)
